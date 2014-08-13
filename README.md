@@ -16,6 +16,6 @@ current map preview is [here](http://haileypate.github.io/viz-west_nile_virus/)
 
 
 made with d3, many thanks to: 
-*online tutorials provided by @mbostock
-*javascript tutorials by ray villalobos @planetoftheweb and lynda.com
+* online tutorials provided by @mbostock
+* javascript tutorials by ray villalobos @planetoftheweb and lynda.com
 
