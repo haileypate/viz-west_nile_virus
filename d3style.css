@@ -1,44 +1,44 @@
+
+.tooltip {
+/*    position: relative;*/
+    float: left;
+    display: inline-block;
+}
 .state {
         fill: #00187F;
-        stroke: #124559;
+        stroke: #deebf7;
         stroke-width: .3;
-/*        position: absolute;*/
-    }
-    .c0 {
-        fill: #ffffcc;
-    }
-    .c1 {
-        fill: #ffeda0;
-    }
-    .c2 {
-        fill: #fed976;
-    }
-    .c3 {
-        fill: #feb24c;
-    }
-    .c4 {
-        fill: #fd8d3c;
-    }
-    .c5 {
-        fill: #fc4e2a;
-    }
-    .c6 {
-        fill: #e31a1c;
-    }
-    .c7 {
-        fill: #b10026;
     }
 
-.chart {
-/*    position: absolute;*/
+.c0 {
+    fill: #ffffcc;
+}
+.c1 {
+    fill: #ffeda0;
+}
+.c2 {
+    fill: #fed976;
+}
+.c3 {
+    fill: #feb24c;
+}
+.c4 {
+    fill: #fd8d3c;
+}
+.c5 {
+    fill: #fc4e2a;
+}
+.c6 {
+    fill: #e31a1c;
+}
+.c7 {
+    fill: #b10026;
 }
 
 .bar {
   fill: #00187F;
+  visibility: visible;
 }
-
-
-
 
 .axis text {
   font: 10px sans-serif;
@@ -55,12 +55,12 @@
   display: none;
 }
 
-.tooltip {
-    position: relative;
-    padding-left: 250px;
-}
 
-#F037:hover {
+
+
+
+
+.county:hover {
     fill: #b10026;
 }
 
